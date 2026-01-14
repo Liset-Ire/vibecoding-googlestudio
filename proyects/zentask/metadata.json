@@ -1,0 +1,7 @@
+{
+  "name": "ZenTask",
+  "description": "A clean, minimal, and intelligent task manager designed for focus and clarity. Features AI-powered task breakdown.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
